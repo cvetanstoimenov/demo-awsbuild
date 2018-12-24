@@ -1,14 +1,14 @@
-    version: 0.2
+version: 0.2
+
 phases:
-pre_build:
-commands:
-- echo Restore started on `date`
-- dotnet restore GitCICDDemo.csproj
-build:
-commands:
-- echo Build started on `date`
-- dotnet publish -c release -o ./build_output GitCICDDemo.csproj
+  pre_build:
+    commands:
+      - echo Restore started on `date`
+  build:
+    commands:
+      - dotnet restore
+      - dotnet build
 artifacts:
-files:
-- CodeBuild-SampleCore/build_output/**/*
-- scripts/**/*
+  files:
+    - GitCICDDemo/build_output/**/*
+    - scripts/**/*
