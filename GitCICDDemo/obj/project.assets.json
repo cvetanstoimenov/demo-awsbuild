@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\GitCICDDemo\\GitCICDDemo\\GitCICDDemo.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Success IT\\Projects\\AWS\\GitCICD\\SRC\\Code\\GitCICDDemo\\GitCICDDemo.csproj",
       "projectName": "GitCICDDemo",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\GitCICDDemo\\GitCICDDemo\\GitCICDDemo.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\Success IT\\Projects\\AWS\\GitCICD\\SRC\\Code\\GitCICDDemo\\GitCICDDemo.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\GitCICDDemo\\GitCICDDemo\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\Success IT\\Projects\\AWS\\GitCICD\\SRC\\Code\\GitCICDDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
