@@ -9,7 +9,7 @@ phases:
       - dotnet restore
       - dotnet build
       - echo Build finished on `date`
-      - dotnet publish -c release -o ./build_output GitCICDDemo.csproj
+      - dotnet publish -c release -o build_output GitCICDDemo.csproj
       
 artifacts:
   files:
