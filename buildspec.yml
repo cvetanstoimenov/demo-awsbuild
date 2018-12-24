@@ -9,9 +9,8 @@ phases:
       - dotnet restore
       - dotnet build
       - echo Build finished on `date`
-      - dotnet publish -c release -o build_output
+      - dotnet publish -c release -o GitCICDDemo/build_output
       
 artifacts:
-    files:
-        - '**/*'
-    base-directory: 'build_output'
+  files:
+    - GitCICDDemo/build_output/**/*
