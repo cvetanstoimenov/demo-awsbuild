@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCICDDemo", "GitCICDDemo\GitCICDDemo.csproj", "{8397FD9E-E1C4-42CC-B8AA-498F5245A84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8397FD9E-E1C4-42CC-B8AA-498F5245A84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8397FD9E-E1C4-42CC-B8AA-498F5245A84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8397FD9E-E1C4-42CC-B8AA-498F5245A84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8397FD9E-E1C4-42CC-B8AA-498F5245A84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7553A040-EE2E-4EB8-8CFE-FD02AF16CAE8}
+	EndGlobalSection
+EndGlobal
