@@ -11,6 +11,7 @@ phases:
       - echo Build finished on `date`
       - dotnet publish -c release -o GitCICDDemo/build_output
       
+      
 artifacts:
   files:
     - GitCICDDemo/build_output/**/*
