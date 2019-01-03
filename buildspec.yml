@@ -9,7 +9,7 @@ phases:
       - dotnet restore
       - dotnet build
       - echo Build finished on `date`
-      - dotnet publish -o GitCICDDemo/build-site
+      - dotnet publish -o release -c build-site
       - cd GitCICDDemo/build-site
       - zip ../../site.zip *
       - echo Zip to site.zip finished on `date`
