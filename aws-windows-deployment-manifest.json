@@ -5,7 +5,7 @@
             {
                 "name": "customPool",
                 "recycling": {
-                    "regularTimeInterval": 1
+                    "regularTimeInterval": 60
                 }
             }
         ]
