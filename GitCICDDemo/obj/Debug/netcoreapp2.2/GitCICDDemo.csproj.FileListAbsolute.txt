@@ -5,7 +5,6 @@ C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\bin
 C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\bin\Debug\netcoreapp2.2\GitCICDDemo.pdb
 C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\bin\Debug\netcoreapp2.2\GitCICDDemo.Views.dll
 C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\bin\Debug\netcoreapp2.2\GitCICDDemo.Views.pdb
-C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\obj\Debug\netcoreapp2.2\GitCICDDemo.csprojAssemblyReference.cache
 C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\obj\Debug\netcoreapp2.2\GitCICDDemo.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\obj\Debug\netcoreapp2.2\GitCICDDemo.RazorAssemblyInfo.cache
 C:\Users\DELL\Documents\Success IT\Projects\AWS\GitCICD\SRC\Code\GitCICDDemo\obj\Debug\netcoreapp2.2\GitCICDDemo.RazorAssemblyInfo.cs
