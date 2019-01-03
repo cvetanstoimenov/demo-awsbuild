@@ -9,10 +9,10 @@ phases:
       - dotnet restore
       - dotnet build
       - echo Build finished on `date`
-      - dotnet publish -c release -o GitCICDDemo/build_output
-      - cd GitCICDDemo/build_output
-      - zip ../../site.zip *
-      
+      - dotnet publish -o site
+      - cd site
+      - zip ../site.zip *
+      - echo Zip to site.zip finished on `date`
 artifacts:
   files:
     - site.zip
