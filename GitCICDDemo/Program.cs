@@ -15,6 +15,7 @@ namespace GitCICDDemo
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args)
+                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseIISIntegration()
                 .Build()

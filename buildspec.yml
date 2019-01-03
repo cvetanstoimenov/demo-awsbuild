@@ -10,8 +10,10 @@ phases:
       - dotnet build
       - echo Build finished on `date`
       - dotnet publish -c release -o GitCICDDemo/build_output
+      - zip site.zip GitCICDDemo/build_output
+      - zip TESTApp.zip site.zip aws-windows-deployment-manifest.json
       
       
 artifacts:
   files:
-    - GitCICDDemo/build_output/**/*
+    - TESTApp.zip
