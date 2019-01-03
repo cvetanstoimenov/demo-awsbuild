@@ -5523,10 +5523,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.Common/2.8.0": {
-      "sha512": "lYUBqh3OD3iEQqxt9KB472VzgOnEKoUVG4Lx5Xw4oJe9dZtITkHFtct+T73jH3FOASFI1NSzzP5MBM0c9zZspA==",
+      "sha512": "A2a4NejNvWVz+8FPXkZK/cd2j4/P3laHwpz56UU3fDcOAVu4Xb98T6FXGAIgqE/LzSVpHnn9Cgg7rhT59qsO8w==",
       "type": "package",
       "path": "microsoft.codeanalysis.common/2.8.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.dll",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.pdb",
@@ -5536,10 +5537,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.CSharp/2.8.0": {
-      "sha512": "+4CHAwHMwLO5GRqPJ7Khv2Ny//omhukPKP3Ny/d2XDpt11bX35zb9pTziwZN0eNvxj6a46joIdHEYQ1JsekI3w==",
+      "sha512": "+GGCTxkBjf9lFEZhVOG4iEO5YkuWCO5q+kUF787NJ8Twy3EOyLrjtZ8K7q+kH/PnSjSkN0AvWwL2NQCmT1H6mA==",
       "type": "package",
       "path": "microsoft.codeanalysis.csharp/2.8.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.dll",
         "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.pdb",
@@ -6895,10 +6897,12 @@
       ]
     },
     "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "sha512": "znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -6923,10 +6927,12 @@
       ]
     },
     "Newtonsoft.Json.Bson/1.0.1": {
-      "sha512": "5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
+      "sha512": "W5Ke5xei9yS0ljQZuT75VgSp5M43eCPm5hHAelvKyGGU4dV7hYCmtwdsxoADb/exO6pYHeu/Iki43TdYPzfESQ==",
       "type": "package",
       "path": "newtonsoft.json.bson/1.0.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/Newtonsoft.Json.Bson.dll",
         "lib/net45/Newtonsoft.Json.Bson.xml",
         "lib/netstandard1.3/Newtonsoft.Json.Bson.dll",
@@ -7437,10 +7443,12 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "/D3jtX0+u5+6rS3RGvTMyICPpIuzBgqtUYLjK1aXLua0nWH4JpM1H/tRk1Uxs6Fo0fe22jyJaTpoXPSu0il8Ug==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7856,10 +7864,12 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.3.0": {
-      "sha512": "omCF64wzQ3Q2CeIqkD6lmmxeMZtGHUmzgFMPjfVaOsyqpR66p/JaZzManMw1s33osoAb5gqpncsjie67+yUPHQ==",
+      "sha512": "OEshwk5wkdxtGkFZYSErv6dnUuz0z8C01htylGwOwFnCVFRcrvleBtplMDCk9nMyWP41cbMZGEIBfy7HV1Loug==",
       "type": "package",
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9082,10 +9092,12 @@
       ]
     },
     "System.Private.DataContractSerialization/4.3.0": {
-      "sha512": "yDaJ2x3mMmjdZEDB4IbezSnCsnjQ4BxinKhRAaP6kEgL6Bb6jANWphs5SzyD8imqeC/3FxgsuXT6ykkiH1uUmA==",
+      "sha512": "wEjvYddMMRV04qSvr/3+v9YsjnYKjxR6riG749gI5DdqXKvJtAKJSfXDxefu7TxlKvGiufQd6mVsI/NMmBIg8A==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.3/System.Private.DataContractSerialization.dll",
@@ -10011,10 +10023,12 @@
       ]
     },
     "System.Runtime.Serialization.Xml/4.3.0": {
-      "sha512": "nUQx/5OVgrqEba3+j7OdiofvVq9koWZAC7Z3xGI8IIViZqApWnZ5+lLcwYgTlbkobrl/Rat+Jb8GeD4WQESD2A==",
+      "sha512": "v5BPUVQNkxkHh80Lhe8YM3iVSN0zYP5Xm9Zw47aoSu6+SyRGbGbEC6i/Vq3gUufIjPSgi16fs1wBLEZNU9zXyQ==",
       "type": "package",
       "path": "system.runtime.serialization.xml/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11350,10 +11364,12 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "kwo6Kf+0jjEcmB+S2BI5SL0xHHRIBd0Cjf11BGliuZ3Va9V1hDbKZmq0mb7HO8QPlYYrq8eNToOzipfw6ARKEw==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11419,10 +11435,12 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "8Eo7vuasWRqXfiBRCIKz20Rq1h6n+NMp6nW2RmyUwF4VDekg8xbRZu8S3N21P5XGAhv+kaqUwI3xydEkcw+D5w==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11496,6 +11514,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.AspNetCore.Server.IISIntegration >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -11546,7 +11565,12 @@
             "version": "[2.1.1, )",
             "autoReferenced": true
           },
+          "Microsoft.AspNetCore.Server.IISIntegration": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
