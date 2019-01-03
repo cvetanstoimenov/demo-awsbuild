@@ -1,10 +1,21 @@
 {
     "manifestVersion": 1,
+	"iisConfig": {
+    "appPools": [
+      {
+        "name": "customPool",
+        "recycling": {
+          "regularTimeInterval": 1
+        }
+      }
+    ]
+  },
     "deployments": {
         "aspNetCoreWeb": [
         {
             "name": "test-dotnet-core",
             "parameters": {
+				"appPool": "customPool"
                 "appBundle": "site.zip",
                 "iisPath": "/",
                 "iisWebSite": "Default Web Site"
