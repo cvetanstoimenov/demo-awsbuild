@@ -15,7 +15,7 @@
         {
             "name": "test-dotnet-core",
             "parameters": {
-				"appPool": "customPool"
+				"appPool": "customPool",
                 "appBundle": "site.zip",
                 "iisPath": "/",
                 "iisWebSite": "Default Web Site"
