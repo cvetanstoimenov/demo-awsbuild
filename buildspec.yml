@@ -16,7 +16,7 @@ phases:
       - dir
       - echo dir in wwwroot
       - dir wwwroot
-      - zip ../../site.zip *
+      - zip -r ../../site.zip *
       - echo Zip to site.zip finished on `date`
 artifacts:
   files:
