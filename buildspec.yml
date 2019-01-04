@@ -14,6 +14,8 @@ phases:
       - cd GitCICDDemo/build-site
       - echo dir in GitCICDDemo/build-site
       - dir
+      - echo dir in wwwroot
+      - dir wwwroot
       - zip ../../site.zip *
       - echo Zip to site.zip finished on `date`
 artifacts:
