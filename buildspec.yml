@@ -12,6 +12,8 @@ phases:
       - dotnet publish -o build-site
       - dir
       - cd GitCICDDemo/build-site
+      - echo dir in GitCICDDemo/build-site
+      - dir
       - zip ../../site.zip *
       - echo Zip to site.zip finished on `date`
 artifacts:
