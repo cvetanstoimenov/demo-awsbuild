@@ -10,6 +10,7 @@ phases:
       - dotnet build
       - echo Build finished on `date`
       - dotnet publish -o build-site
+      - dir
       - cd GitCICDDemo/build-site
       - zip ../../site.zip *
       - echo Zip to site.zip finished on `date`
